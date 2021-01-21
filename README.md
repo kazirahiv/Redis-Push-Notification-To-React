@@ -1,4 +1,4 @@
-# Realtime push notification with Redis to React Web
+# Realtime push notification with Redis
 
 This is a simple dockerized push notification service using redis to react web.
 
