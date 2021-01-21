@@ -1,6 +1,6 @@
 # Realtime push notification with Redis
 
-This is a simple dockerized push notification service using redis to react web.
+This is a simple dockerized push notification service using redis pub/sub.
 
 
 ### Installation
